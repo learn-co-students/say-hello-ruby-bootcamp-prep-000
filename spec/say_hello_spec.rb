@@ -1,3 +1,7 @@
+def say_hello(Gesiye)
+  puts "Hello, #{Gesiye}"
+end
+
 require_relative './spec_helper'
 
 describe "say_hello" do 
