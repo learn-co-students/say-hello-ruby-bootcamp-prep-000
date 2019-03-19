@@ -1,4 +1,4 @@
-require_relative './spec_helper'
+require_relative './spec_helper' , './say_hello'
 
 describe "say_hello" do 
   
